@@ -1,7 +1,3 @@
-def main():
+def print_func():
     print("Hej du")
 	print("Herå")
-
-
-if __name__ == '__main__':
-    main()
